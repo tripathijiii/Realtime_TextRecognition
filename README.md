@@ -1,6 +1,8 @@
 # realtime_textrecognition
 
-A new Flutter project.
+A realtime text recognition application
+
+![IMG_3281](https://user-images.githubusercontent.com/60423130/172166896-9f9858ca-f5c9-4940-8068-306a53d17b67.PNG)
 
 ## Getting Started
 
