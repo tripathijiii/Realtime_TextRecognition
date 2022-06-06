@@ -4,6 +4,8 @@ A realtime text recognition application
 
 ![IMG_3281](https://user-images.githubusercontent.com/60423130/172166896-9f9858ca-f5c9-4940-8068-306a53d17b67.PNG)
 
+![IMG_3283](https://user-images.githubusercontent.com/60423130/172167148-4e48aa30-befc-4d8c-a110-4b779d5ece28.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
